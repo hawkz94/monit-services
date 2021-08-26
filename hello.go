@@ -2,15 +2,23 @@ package main
 
 import (
 	"fmt"
-
-	listDirs "hello/features"
+	feature "hello/features"
+	"os"
+	"time"
 )
 
-func main() {
+const delay = 5
 
+func main() {
 	showMenu()
 	command := readOption()
 	callFeature(command)
+}
+
+func getUrls() []string {
+	return []string{"https://www.alura.com.br/",
+		"https://www.alura.com.br/kokwoksksopskopsk",
+		"https://www.caelum.com.br/"}
 }
 
 func showMenu() {
@@ -32,13 +40,21 @@ func readOption() int {
 func callFeature(option int) {
 	switch option {
 	case 1:
-		println("2 - Exibir logs")
+		for i := 0; i <= 5; i++ {
+			for _, site := range getUrls() {
+				feature.Check(site)
+			}
+			println("")
+			time.Sleep(5 * time.Second)
+		}
+
 	case 2:
 		println("2 - Exibir logs")
 	case 3:
-		listDirs.ExecList()
+		feature.ExecList()
 	case 0:
-		println("0 - Fechar aplicação")
+		println("Finalizado.")
+		os.Exit(0)
 	default:
 		println("Nenhum comando encontrado.")
 	}
