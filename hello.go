@@ -40,8 +40,14 @@ func readOption() int {
 func callFeature(option int) {
 	switch option {
 	case 1:
+		urls, err := feature.ReadUrls()
+
+		if err != nil {
+			return
+		}
+
 		for i := 0; i <= 5; i++ {
-			for _, site := range getUrls() {
+			for _, site := range urls {
 				feature.Check(site)
 			}
 			println("")

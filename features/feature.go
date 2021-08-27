@@ -1,9 +1,13 @@
 package feature
 
 import (
+	"bufio"
 	"fmt"
+	"io"
 	"net/http"
+	"os"
 	"os/exec"
+	"strings"
 )
 
 func Check(url string) {
@@ -31,4 +35,28 @@ func ExecList() {
 		fmt.Println(err.Error())
 		return
 	}
+}
+
+func ReadUrls() ([]string, error) {
+	var lines []string
+	file, err := os.Open("urls.txt")
+
+	if err != nil {
+		fmt.Println(err.Error())
+		return lines, err
+	}
+
+	read := bufio.NewReader(file)
+	for {
+		line, err := read.ReadString('\n')
+		line = strings.TrimSpace(line)
+
+		lines = append(lines, line)
+		if err == io.EOF {
+			break
+		}
+
+	}
+
+	return lines, nil
 }
