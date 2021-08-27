@@ -1,0 +1,54 @@
+https://www.alura.com.br/ - online: true
+https://www.alura.com.br/kokwoksksopskopsk - online: false
+https://www.caelum.com.br/ - online: true
+https://www.alura.com.br/ - online: true
+https://www.alura.com.br/kokwoksksopskopsk - online: false
+https://www.caelum.com.br/ - online: true
+https://www.alura.com.br/ - online: true
+https://www.alura.com.br/kokwoksksopskopsk - online: false
+https://www.caelum.com.br/ - online: true
+https://www.alura.com.br/ - online: true
+https://www.alura.com.br/kokwoksksopskopsk - online: false
+https://www.caelum.com.br/ - online: true
+https://www.alura.com.br/ - online: true
+https://www.alura.com.br/kokwoksksopskopsk - online: false
+https://www.caelum.com.br/ - online: true
+https://www.alura.com.br/ - online: true
+https://www.alura.com.br/kokwoksksopskopsk - online: false
+https://www.caelum.com.br/ - online: true
+26/08/2021 23:37:35https://www.alura.com.br/ - online: true
+26/08/2021 23:37:35https://www.alura.com.br/kokwoksksopskopsk - online: false
+26/08/2021 23:37:36https://www.caelum.com.br/ - online: true
+26/08/2021 23:37:41https://www.alura.com.br/ - online: true
+26/08/2021 23:37:41https://www.alura.com.br/kokwoksksopskopsk - online: false
+26/08/2021 23:37:41https://www.caelum.com.br/ - online: true
+26/08/2021 23:37:47https://www.alura.com.br/ - online: true
+26/08/2021 23:37:47https://www.alura.com.br/kokwoksksopskopsk - online: false
+26/08/2021 23:37:47https://www.caelum.com.br/ - online: true
+26/08/2021 23:37:52https://www.alura.com.br/ - online: true
+26/08/2021 23:37:52https://www.alura.com.br/kokwoksksopskopsk - online: false
+26/08/2021 23:37:52https://www.caelum.com.br/ - online: true
+26/08/2021 23:37:58https://www.alura.com.br/ - online: true
+26/08/2021 23:37:58https://www.alura.com.br/kokwoksksopskopsk - online: false
+26/08/2021 23:37:58https://www.caelum.com.br/ - online: true
+26/08/2021 23:38:14 https://www.alura.com.br/ - online: true
+26/08/2021 23:38:14 https://www.alura.com.br/kokwoksksopskopsk - online: false
+26/08/2021 23:38:14 https://www.caelum.com.br/ - online: true
+26/08/2021 23:38:19 https://www.alura.com.br/ - online: true
+26/08/2021 23:38:19 https://www.alura.com.br/kokwoksksopskopsk - online: false
+26/08/2021 23:38:20 https://www.caelum.com.br/ - online: true
+26/08/2021 23:38:25 https://www.alura.com.br/ - online: true
+26/08/2021 23:38:25 https://www.alura.com.br/kokwoksksopskopsk - online: false
+26/08/2021 23:38:25 https://www.caelum.com.br/ - online: true
+26/08/2021 23:38:30 https://www.alura.com.br/ - online: true
+26/08/2021 23:38:30 https://www.alura.com.br/kokwoksksopskopsk - online: false
+26/08/2021 23:38:31 https://www.caelum.com.br/ - online: true
+26/08/2021 23:38:36 https://www.alura.com.br/ - online: true
+26/08/2021 23:38:36 https://www.alura.com.br/kokwoksksopskopsk - online: false
+26/08/2021 23:38:36 https://www.caelum.com.br/ - online: true
+26/08/2021 23:38:41 https://www.alura.com.br/ - online: true
+26/08/2021 23:38:41 https://www.alura.com.br/kokwoksksopskopsk - online: false
+26/08/2021 23:38:42 https://www.caelum.com.br/ - online: true
+26/08/2021 23:43:04 https://www.alura.com.br/ - online: true
+26/08/2021 23:43:04 https://www.alura.com.br/kokwoksksopskopsk - online: false
+26/08/2021 23:43:04 https://www.caelum.com.br/ - online: true

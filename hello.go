@@ -55,7 +55,8 @@ func callFeature(option int) {
 		}
 
 	case 2:
-		println("2 - Exibir logs")
+		println("Exibindo logs...")
+		feature.ShowLogs()
 	case 3:
 		feature.ExecList()
 	case 0:
